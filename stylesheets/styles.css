@@ -364,7 +364,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -757,8 +757,8 @@ header p {
   background-color: #FFE788;
 }
 #banner .downloads {
-  float: right;
-  margin: 0 45px 0 0;
+  float: left;
+  margin: 0 55px 0 0;
 }
 #banner .downloads span {
   float: left;
@@ -885,7 +885,7 @@ footer {
     width: 100%;
   }
   #banner .downloads {
-    margin-right: 60px;
+    margin-right: 50px;
   }
   #banner #logo {
     margin-right: 15px;
