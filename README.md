@@ -102,6 +102,7 @@
 * [Vulnerable Embedded Web Interfaces Plague IoT Devices: Study](http://www.securityweek.com/vulnerable-embedded-web-interfaces-plague-iot-devices-study)
 * [A Hacker's-Eye View of the Internet of Things](https://recode.net/2015/04/07/a-hackers-eye-view-of-the-internet-of-things/)
 * [Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
+* [How hackers attacked Ukraine's power grid: Implications for Industrial IoT security](http://www.zdnet.com/article/how-hackers-attacked-ukraines-power-grid-implications-for-industrial-iot-security/)
 
 ## IoT Development Tools
 
