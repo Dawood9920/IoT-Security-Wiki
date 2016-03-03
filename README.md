@@ -6,6 +6,8 @@ As  IoT is broadly based on four components: Embedded Systems, Cloud, Network, M
 
 If you find anything missing or have some resource to add, please add through [contribute](#contribute) section.
 
+Follow IoT Security Wiki on [Twitter](https://twitter.com/IoTSecurityWiki) to get latest updates about IoT Security
+
 Thanks!
 
 ##Presentations 
