@@ -1,4 +1,12 @@
-###Welcome!
+###Welcome### to IoT Security Wiki Website.
+
+So this website is an intiative to help developers and security researchers to get all security resource related to IoT Security. Although listing out all resources related to IoT is very difficult, but i have tried my best to list out Major technical material available. 
+
+As  Iot is broadly based on four components: Embedded Systems, Cloud, Network, Mobile. We would have resourced related to first three in this wiki and for Mobile we already have [MobileSecurityWiki](https://mobilesecuritywiki.com) which is also my project.
+
+If you find anything missing or have some resource to add, please add through [contribute](#-contribute-) section.
+
+Thanks!
 
 ##Presentations 
 
