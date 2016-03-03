@@ -1,3 +1,4 @@
+###Welcome!
 
 ##Presentations 
 
@@ -103,6 +104,12 @@
 * [A Hacker's-Eye View of the Internet of Things](https://recode.net/2015/04/07/a-hackers-eye-view-of-the-internet-of-things/)
 * [Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
 * [How hackers attacked Ukraine's power grid: Implications for Industrial IoT security](http://www.zdnet.com/article/how-hackers-attacked-ukraines-power-grid-implications-for-industrial-iot-security/)
+
+##Firmware Analysis
+
+* [Binwalk](https://github.com/devttys0/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+* [Reversing Firmware Part 1](http://resources.infosecinstitute.com/reversing-firmware-part-1/)
+* [Embedded Devices Security and Firmware Reverse Engineering](https://media.blackhat.com/us-13/US-13-Zaddach-Workshop-on-Embedded-Devices-Security-and-Firmware-Reverse-Engineering-WP.pdf)
 
 ## IoT Development Tools
 
