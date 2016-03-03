@@ -1,16 +1,3 @@
-## WhitePapers
-* [What the Internet of Things(IoT) needs to become a reality](http://www.mouser.fr/pdfdocs/INTOTHNGSWP.PDF)
-* [Security of Things: An Implementers’ Guide to Cyber-Security for Internet of Things Devices and Beyond](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2014-04-09_-_security_of_things_-_an_implementers_guide_to_cyber_security_for_internet_of_things_devices_and_beyond-2.pdf)
-* [Use case possibilities with Bluetooth low energy in IoT applications](http://www.spezial.de/sites/default/files/bluetoothlowenergy-iot-applications_whitepaper_ubx-14054580.pdf)
-
-##Research Studies
-
-| Title                                           | Organization    | Year | Link                                                                                                              |
-|-------------------------------------------------|-----------------|------|-------------------------------------------------------------------------------------------------------------------|
-| The Internet of Things: Security Research Study | Veracode        | 2015 | [Link](https://www.veracode.com/sites/default/files/Resources/Whitepapers/internet-of-things-whitepaper.pdf)      |
-| Internet of Things Research Study               | Hewlett Packard | 2015 | [Link](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)                                                 |
-| Insecurity in Internet Of Things                | Symantec        | 2015 | [Link](https://www.symantec.com/content/en/us/enterprise/iot/b-insecurity-in-the-internet-of-things_21349619.pdf) |
-| Securing the "Internet of Things" Survey			| SANS			| 2014	| [Link](http://cybersec.orglearn.com/wp-content/uploads/2014/02/SecuringtheInternetofThingsSurvey.pdf)
 
 ##Presentations 
 
@@ -31,7 +18,19 @@
 | IoT Security                                                                             | BSides         | 2015 | Justin C. Klein Keane             | [Video](https://www.youtube.com/watch?v=s5AOkqyCvHg)                                                                                                                                           |
 | Securing the Internet of Things                                                          | IoT Conference | 2015 | Paul Fremantle                    | [Video](https://www.youtube.com/watch?v=iEu1LFhnPWQ)                                                                                                                                           |
 | The Internet of Fails - Where IoT Has Gone Wrong                                         | Defcon22       | 2014 | Mark Stanislav & Zach Lanier      | [Video](https://www.youtube.com/watch?v=WHdU4LutBGU)                                                                                                                                           |
+## WhitePapers
+* [What the Internet of Things(IoT) needs to become a reality](http://www.mouser.fr/pdfdocs/INTOTHNGSWP.PDF)
+* [Security of Things: An Implementers’ Guide to Cyber-Security for Internet of Things Devices and Beyond](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2014-04-09_-_security_of_things_-_an_implementers_guide_to_cyber_security_for_internet_of_things_devices_and_beyond-2.pdf)
+* [Use case possibilities with Bluetooth low energy in IoT applications](http://www.spezial.de/sites/default/files/bluetoothlowenergy-iot-applications_whitepaper_ubx-14054580.pdf)
 
+##Research Studies
+
+| Title                                           | Organization    | Year | Link                                                                                                              |
+|-------------------------------------------------|-----------------|------|-------------------------------------------------------------------------------------------------------------------|
+| The Internet of Things: Security Research Study | Veracode        | 2015 | [Link](https://www.veracode.com/sites/default/files/Resources/Whitepapers/internet-of-things-whitepaper.pdf)      |
+| Internet of Things Research Study               | Hewlett Packard | 2015 | [Link](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)                                                 |
+| Insecurity in Internet Of Things                | Symantec        | 2015 | [Link](https://www.symantec.com/content/en/us/enterprise/iot/b-insecurity-in-the-internet-of-things_21349619.pdf) |
+| Securing the "Internet of Things" Survey			| SANS			| 2014	| [Link](http://cybersec.orglearn.com/wp-content/uploads/2014/02/SecuringtheInternetofThingsSurvey.pdf)
 
 ##Research Papers
 
