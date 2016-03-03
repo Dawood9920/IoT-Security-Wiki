@@ -81,6 +81,26 @@
 | Security in the Internet of Things                                                                        | 2011 | [Link](http://www.mhutter.org/papers/Gudymenko2011SecurityInThe.pdf)                                                                                                                                                   |
 | Assessing the Security of Internet ConnectedCritical Infrastructures                                      | 2010 | [Link](https://www.researchgate.net/profile/Neeraj_Suri/publication/267942349_Assessing_the_Security_of_Internet_Connected_Critical_Infrastructures_(The_CoMiFin_Project_Approach)/links/54bcd6600cf29e0cb04c388a.pdf) |
 
+##OWASP Resources
+
+* [Top IoT Vulnerabilities](https://www.owasp.org/index.php/Top_IoT_Vulnerabilities)
+* [IoT Testing Guides](https://www.owasp.org/index.php/IoT_Testing_Guides)
+* [Manufacturer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Manufacturer_IoT_Security_Guidance)
+* [Developer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Developer_IoT_Security_Guidance)
+* [Consumer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Consumer_IoT_Security_Guidance)
+* [Priciples of IoT Security](https://www.owasp.org/index.php/Principles_of_IoT_Security)
+* [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
+
+##Case Studies
+
+* [HACKING IoT: A Case Study on Baby Monitor Exposures and Vulnerabilities](https://www.rapid7.com/docs/Hacking-IoT-A-Case-Study-on-Baby-Monitor-Exposures-and-Vulnerabilities.pdf)
+
+##Articles
+
+* [Vulnerable Embedded Web Interfaces Plague IoT Devices: Study](http://www.securityweek.com/vulnerable-embedded-web-interfaces-plague-iot-devices-study)
+* [A Hacker's-Eye View of the Internet of Things](https://recode.net/2015/04/07/a-hackers-eye-view-of-the-internet-of-things/)
+* *[Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
+
 ## IoT Development Tools
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
@@ -140,30 +160,6 @@ The ThingBox allows anyone to graphically create new unlimited applications inte
 * [Windows 10 IoT Core OS](https://dev.windows.com/en-us/iot) - Discover the features and functionality that Windows 10 IoT Core provides. It’s ease of Windows combined with the power of IoT.
 * [Zephyr](https://www.zephyrproject.org/) - Zephyr Project is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.  Developers are able to tailor their optimal solution. As a true open source project, the community can evolve the Zephyr Project to support new hardware, developer tools, sensor and device drivers.  Advancements in security, device management capabilities, connectivity stacks and file systems can be easily implemented.
 
-##IoT Integration Tools and Horizontal Platforms
-* [Canopy](http://www.canopy.link) - Canopy simplifies the IoT cloud by acting as a cloud relay between IoT devices and applications.
-* [DeviceHive](http://devicehive.com/) - DeviceHive is supported commercially by DataArt’s Internet of Things R&D practice. With DataArt, a world leading technology consulting company, you can take your IoT solution to the next level and customize DeviceHive to suite your business and technology needs.
-* [Distributed Service Architecture]() -
-* [IoT Toolkit]() -
-* [M2MLabs MainSpring]() -
-* [Mango]() -
-* [Nimbits]() -
-* [Open Source Internet of Things]() -
-* [OpenRemote]() -
-* [Pico Labs]() -
-* [prpl Foundation]() -
-* [RabbitMQ]() -
-* [SiteWhere]() -
-* [ThingSpeak]() -
-* [webnios]() -
-* [Yaler]() -
-
-##IoT Development APIs
-* [1248.io]() -
-* [BipIO](https://bip.io)
-* [Motion Shadow]() -
-* [Qeo Tinq]() -
-* [Zetta]() -
 
 ##IoT App Development Protocols
 
@@ -174,23 +170,5 @@ The ThingBox allows anyone to graphically create new unlimited applications inte
 * [Extensible Messaging and Presence Protocol]() -
 * [Datagram Transport Layer Security]()- Although it is not a development protocol but it is used in most of the IoT devices to securely transmit the data.
 
-##Resources
 
-* [Top IoT Vulnerabilities](https://www.owasp.org/index.php/Top_IoT_Vulnerabilities)
-* [IoT Testing Guides](https://www.owasp.org/index.php/IoT_Testing_Guides)
-* [Manufacturer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Manufacturer_IoT_Security_Guidance)
-* [Developer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Developer_IoT_Security_Guidance)
-* [Consumer IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance#Consumer_IoT_Security_Guidance)
-* [Priciples of IoT Security](https://www.owasp.org/index.php/Principles_of_IoT_Security)
-* [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
-
-##Case Studies
-
-* [HACKING IoT: A Case Study on Baby Monitor Exposures and Vulnerabilities](https://www.rapid7.com/docs/Hacking-IoT-A-Case-Study-on-Baby-Monitor-Exposures-and-Vulnerabilities.pdf)
-
-##Articles
-
-* [Vulnerable Embedded Web Interfaces Plague IoT Devices: Study](http://www.securityweek.com/vulnerable-embedded-web-interfaces-plague-iot-devices-study)
-* [A Hacker's-Eye View of the Internet of Things](https://recode.net/2015/04/07/a-hackers-eye-view-of-the-internet-of-things/)
-* *[Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
 
