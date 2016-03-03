@@ -165,12 +165,8 @@ The ThingBox allows anyone to graphically create new unlimited applications inte
 
 ##IoT App Development Protocols
 
-* [Advanced Message Queuing Protocol]()-
-* [OASIS Message Queuing Telemetry Transport]() -
-* [Very Simple Control Protocol]() -
-* [Constrained Application Protocol]() -
-* [Extensible Messaging and Presence Protocol]() -
-* [Datagram Transport Layer Security]()- Although it is not a development protocol but it is used in most of the IoT devices to securely transmit the data.
-
-
-
+* [Advanced Message Queuing Protocol]()
+* [OASIS Message Queuing Telemetry Transport]() 
+* [Very Simple Control Protocol]()
+* [Constrained Application Protocol]()
+* [Extensible Messaging and Presence Protocol]()
