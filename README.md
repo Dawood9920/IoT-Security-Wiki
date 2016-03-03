@@ -94,6 +94,8 @@
 ##Case Studies
 
 * [HACKING IoT: A Case Study on Baby Monitor Exposures and Vulnerabilities](https://www.rapid7.com/docs/Hacking-IoT-A-Case-Study-on-Baby-Monitor-Exposures-and-Vulnerabilities.pdf)
+* [Your Fridge is Full of SPAM: Proof of An IoT-driven Attack](https://www.proofpoint.com/us/threat-insight/post/Your-Fridge-is-Full-of-SPAM)
+* [Refrigerator Vulnerabilities - Samsung Security Hack ](https://www.pentestpartners.com/blog/hacking-defcon-23s-iot-village-samsung-fridge/)
 
 ##Articles
 
